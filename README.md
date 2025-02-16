@@ -25,30 +25,39 @@ Each solution follows a structured approach, ensuring readability, correctness, 
 Implementation Details
 
 17.Table of a Number
+
 Objective: Generate and display the multiplication table of a given number.
 
 18.Swap Two Numbers Without Using a Third Variable
+
 Objective: Swap two numbers without using an additional variable.
 
 19.Check Substring
+
 Objective: Check if one string is a substring of another.
 
 20.Decimal to Binary
+
 Objective: Convert a decimal number to its binary representation.
 
 21.Matrix Addition
+
 Objective: Perform matrix addition for two given matrices.
 
 22.Matrix Multiplication
+
 Objective: Perform matrix multiplication for two matrices.
 
 23.Find Second Largest Number
+
 Objective: Find the second largest number in a list.
 
 24.Check Anagram
+
 Objective: Check if two strings are anagrams.
 
 AI-Based Tic-Tac-Toe
+
 Objective: Implement an AI-driven Tic-Tac-Toe game using Minimax algorithm.
 
 
